@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(to left,red,darkblue);
+    color:wheat;
+}
+.a1{
+    height:400px;
+    width:400px;
+    border: 2px solid black;
+    border-radius: 5%;
+    background-color: yellow;
+    text-align: center;
+    position:relative;
+    top:100px;
+    left:400px;
+}
+.s1{
+    background-color: blue;
+    color:gold;
+    text-align: center;
+    height:50px;
+    width:100px;
+}
+.C2{
+    height:200px;
+    background-image: linear-gradient(to right, black,red);
+    color:wheat;
+}
